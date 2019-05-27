@@ -1,3 +1,5 @@
 random-file1
 This random file is more random than the other random file.
 ds Hello random file! You are so random!
+Hello random file! You are so random!
+dh:lorem ipsum
